@@ -102,4 +102,8 @@ header {
         height: 50%;
         opacity: 1;
     }
+
+    .hamburger-menu .hidden {
+        display: none;
+    }
 }
